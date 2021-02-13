@@ -1,0 +1,1 @@
+C:\Users\win7\footBallAI\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache

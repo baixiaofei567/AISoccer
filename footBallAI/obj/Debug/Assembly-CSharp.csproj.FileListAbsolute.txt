@@ -1,0 +1,2 @@
+C:\Users\win7\footBallAI\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\footBallAI\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
